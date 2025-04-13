@@ -18,6 +18,11 @@ the customer info and Employee info and the manager information admin can pickup
 
 
 
+
+
+
+
+
 -the creator of the system
 
 unfortunately If you're wondering why it's empty, it's because of the system it was created on is on my old laptop and my laptop is completely broken.
